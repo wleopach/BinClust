@@ -1,0 +1,8 @@
+# Exclude local environment and caches
+.venv
+__pycache__
+*.pyc
+.idea
+.git
+.gitignore
+.DS_Store
